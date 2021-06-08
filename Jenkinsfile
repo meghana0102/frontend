@@ -1,4 +1,4 @@
-frontend(jenkinsfile)
+
     pipeline{
     agent any
     stages {
