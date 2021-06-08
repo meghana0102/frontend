@@ -1,4 +1,5 @@
 
+    @Library('todoshop') _
     todoshop (
              COMPONENT             : 'frontend',
              PROJECT_NAME          : "todoshop",
